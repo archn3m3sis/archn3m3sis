@@ -8,11 +8,11 @@
 > All that being said, I've found that this tupe of job doesn't come easy, and so I have been progressively working on honing my skillset as I happily work within the field of Industrial Cyber Security for the Department Of Defense. If you are a fellow cyber security enthusiast please fo not hesitate to reach out with any insight, knowledge, or thoughts that you think I should take note of. I've always and will always try to maintain a student mentality no matter what level of the industry I end up reaching.
 
 **My interests are as far and wide, as my toddler's attention span is short, but my current and primary interest are:**
-- ethical hacking, specifically hacking networks and web applications
-- python development
-- ruby development
-- security related application exploration
-- scripting for automation and blueteam / redteam operations
+- Ethical hacking, specifically hacking networks and web applications
+- Python development
+- Ruby development
+- Security related application exploration
+- Scripting for automation and blueteam / redteam operations
 
 **My Certifications currently held are:**
 - CompTIA Security+
