@@ -16,6 +16,7 @@
 
 **My Certifications currently held are:**
 - CompTIA Security+
+- CompTIA Pentest+
 - Fortigate Cybersecurity Operator
 - Google IT Support Specialist
 - Kaseya Certified Cybersecurity Technician
